@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "361529201203",
+    "firebase_url": "https://myfirstfirebase-dd057.firebaseio.com",
+    "project_id": "myfirstfirebase-dd057",
+    "storage_bucket": "myfirstfirebase-dd057.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361529201203:android:5c5827ab05796c16",
+        "android_client_info": {
+          "package_name": "training.mac.com.org.firebasetutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361529201203-j0j4mf7ncicfnm7u2248io9uhjdup16i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZTN9ftJg8JjWInVqIL9jw7_qhv9M5kns"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

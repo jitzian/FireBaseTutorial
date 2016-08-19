@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CrowdWeather</string>
+    <string name="mButton2Label">Sunny</string>
+    <string name="mButton1Label">Foggy</string>
+</resources>
